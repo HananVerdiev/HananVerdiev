@@ -26,5 +26,12 @@ AtliQ Hardware, a leading computer hardware manufacturer in India and abroad, pa
 
 The goal is to identify revenue/ profit/ margin momentum, understand sales dynamics across time and markets, and deliver actionable insights through interactive dashboards.
 ### 📱[Megaline Mobile Plan Recommendation](https://github.com/HananVerdiev/Machine-Learning-Project)
+Client: Megaline, a mobile carrier
+Goal: Develop a machine learning model that classifies subscribers into one of two mobile plans — Smart or Ultra — based on monthly usage behavior.
+
+This classification model will help Megaline target users still on legacy plans and recommend the most suitable new plan for them.
 ### 🧪[A/B Testing & Hypothesis Prioritization Project](https://github.com/HananVerdiev/A-B-Testing)
+As an analyst at a large online store, you're working with the marketing team to boost revenue. This project focuses on prioritizing marketing hypotheses and analyzing A/B test results to determine which initiatives are most effective.
 ### 📊[Yandex.Afisha Marketing Optimization Project](https://github.com/HananVerdiev/Business-Analytics)
+Welcome to the Yandex.Afisha Analytics Internship Project!
+In this project, we analyze product usage, user behavior, revenue patterns, and marketing ROI to optimize advertising expenses for Yandex.Afisha.
