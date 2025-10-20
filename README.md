@@ -2,8 +2,6 @@ HananVerdiev
 ---
 
 
-<img width="435" height="320" alt="image" src="https://gist.github.com/user-attachments/assets/c9e23580-cdd8-4af2-9bbf-149672e1e96e" />
-
 📈 Data/ BI Analyst
 * 📊 Data Analyst — passionate about turning complex data into clear, actionable insights.
 * 🧠 Skilled in SQL, Python, and data visualization tools like Tableau and Power BI.
