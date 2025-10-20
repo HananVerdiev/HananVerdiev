@@ -21,7 +21,9 @@ HananVerdiev
 
 🧰 My Repos:
 
-### 🧠[AtliQ Hardware Sales Audit & Product Analysis (PWC Project)](https://github.com/HananVerdiev/AtliQ-Hardware-Final-Project)
+### 🧠[AtliQ Hardware Sales Audit & Product Analysis (PWC Project)](https://github.com/HananVerdiev/AtliQ-Hardware-Final-Project)AtliQ Hardware, a leading computer hardware manufacturer in India and abroad, partnered with PWC to conduct a detailed audit of their sales data and automate reporting. As part of this effort, our team was asked to perform a comprehensive Financial Analysis using a structured SQLite database provided by the client.
+
+The goal is to identify revenue/ profit/ margin momentum, understand sales dynamics across time and markets, and deliver actionable insights through interactive dashboards.
 ### 📱[Megaline Mobile Plan Recommendation](https://github.com/HananVerdiev/Machine-Learning-Project)
 ### 🧪[A/B Testing & Hypothesis Prioritization Project](https://github.com/HananVerdiev/A-B-Testing)
 ### 📊[Yandex.Afisha Marketing Optimization Project](https://github.com/HananVerdiev/Business-Analytics)
